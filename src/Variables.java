@@ -13,5 +13,6 @@ public class Variables {
         double doubleProduct = 3.4; //This is a declaration and initial assignment of a double variable
         double doubleDifference = 6.5; //This is a declaration and initial assignment of a double variable
         double doubleQuotient = 7.6; //This is a declaration and initial assignment of a double variable
+
     }
 }
